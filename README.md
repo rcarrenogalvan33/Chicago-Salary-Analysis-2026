@@ -6,6 +6,8 @@ The Chicago "Care Penalty": A Multi-Model Wage Analysis (2026)
 This project investigates structural wage disparities across City of Chicago departments using the 2026 municipal payroll dataset. Specifically, it explores the "Care Penalty," the significant pay gap between protective services (Police) and social/health services (Family & Support Services and Public Health).
 
 The Core Finding: Even when controlling for managerial seniority, a $19,654 structural gap exists between the Chicago Police Department and the Department of Family and Support Services.
+ 
+ 
  The "Data Detective" Methodology
 
 To ensure these findings were not simply a result of statistical noise, I conducted a three-stage methodological investigation:
