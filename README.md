@@ -44,6 +44,8 @@ Based on the final GAM-validated model, the predicted base salaries for non-mana
 
 ![Salary Distribution by Department](Salary_distribution_chicago.png)
 
+![Chicago Care Penalty](Chicago_Care_Penalty_Bars.png)
+
 🚀 Technical Skills Demonstrated
 
     R Programming: Advanced use of tidyverse, mgcv (GAM), ggplot2, and scales.
